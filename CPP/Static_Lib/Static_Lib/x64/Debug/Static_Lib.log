@@ -1,0 +1,7 @@
+﻿  MathLib.cpp
+C:\Abdullah\CyberSecurity\Zayotem\Static_Lib\Static_Lib\MathLib.cpp(20,42): error C2084: function 'double MathLib::Arithmetics::Factorial(double)' already has a body
+C:\Abdullah\CyberSecurity\Zayotem\Static_Lib\Static_Lib\MathLib.h(19): message : see previous definition of 'Factorial'
+C:\Abdullah\CyberSecurity\Zayotem\Static_Lib\Static_Lib\MathLib.cpp(24,27): error C2065: 'Factorial': undeclared identifier
+C:\Abdullah\CyberSecurity\Zayotem\Static_Lib\Static_Lib\MathLib.cpp(24,43): error C3867: 'MathLib::Arithmetics::Factorial': non-standard syntax; use '&' to create a pointer to member
+C:\Abdullah\CyberSecurity\Zayotem\Static_Lib\Static_Lib\MathLib.cpp(24,43): error C2568: '*': unable to resolve function overload
+C:\Abdullah\CyberSecurity\Zayotem\Static_Lib\Static_Lib\MathLib.cpp(24,43): message : could be 'double MathLib::Arithmetics::Factorial(double)'
